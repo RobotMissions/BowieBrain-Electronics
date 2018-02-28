@@ -6,7 +6,7 @@ Bowie Brain Board is the electronics for the [Robot Missions](http://robotmissio
 
 ### More information about our robot platform at the [Robot Missions Website ➞](http://robotmissions.org)
 
-The Robot Missions Bowie Brain Board has ports for 6 servos, connections for 4 DC motors (2 controlled independently), can measure the current draw from the servos or DC motors, and has several connections for extendable modules. Microcontroller uses a [Teensy 3.6](https://www.pjrc.com/store/teensy36.html) for full functionality including data logging, or a [Teensy 3.2](https://www.pjrc.com/store/teensy32.html).
+The Robot Missions Bowie Brain Board has ports for 6 servos, connections for 4 DC motors (2 controlled independently), can measure the current draw from the servos or DC motors, and has several connections for extendable modules. Microcontroller uses a [Teensy 3.6](https://www.pjrc.com/store/teensy36.html) for full functionality including data logging, or a [Teensy 3.2](https://www.pjrc.com/store/teensy32.html). 
 
 Firmware can be found here: [Bowie Library](https://github.com/RobotMissions/BowieLib) and [Bowie Shoreline](https://github.com/RobotMissions/BowieShoreline).
 
