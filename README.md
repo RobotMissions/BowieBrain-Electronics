@@ -18,7 +18,7 @@ There are several ways you can extend the functionality of your Bowie robot. Her
 
 > **Note:** TX_n_ denotes data out from the brain's microcontroller, and RX_n_ is data in to it.
 
-![Labeled connector pinouts](http://robotmissions.org/images/github/brain_board_pins_small_new.png)
+![Labeled connector pinouts](http://robotmissions.org/images/github/brain_board_pins_small_new.png?)
 
 ## Schematics
 
