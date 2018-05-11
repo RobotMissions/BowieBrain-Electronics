@@ -71,7 +71,7 @@ Following the above image:
 | R11 | 2.0K Resistor for speaker | Digikey 2.0KQBK-ND |
 | D1, D3 | 5mm Red LED | Digikey C503B-RCN-CX0Y0AA1-ND |
 | D2, D4 | 5mm Green LED | Digikey C503B-GAN-CC0D0891-ND |
-| D5 | 10mm LED | Digikey 754-1898-ND |
+| D5 | 10mm LED | Digikey VAOL-10GDE4-ND |
 | D6 | 1N4001 Diode | Digikey 1N4001-TPMSCT-ND |
 | LS | Speaker | Digikey 445-2525-1-ND |
 | Q1 | PN2222A Transistor | Digikey PN2222AD26ZCT-ND |
