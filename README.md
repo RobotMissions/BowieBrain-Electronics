@@ -79,7 +79,7 @@ Following the above image:
 | J2 | _Optional_ Power supply connection using JST-SM 6 pin | [Adafruit](https://www.adafruit.com/product/1665) |
 | J3 | Screw terminals | Digikey A98079-ND |
 | J4, J5, J6, J7 | Motor connections using JST-SM | Digikey 1528-1596-ND | 
-| N/A | Terminals for barrier block | Digikey A0989CT-ND |
+| N/A | Spade connectors for barrier block | Digikey A0989CT-ND & A100665CT-ND |
 | N/A | Coincell holder | Digikey BS-7-ND |
 | N/A | 4x M3 8mm mounting screws | Home Hardware |
 | N/A | Servo extension cables | [Hobbyking](https://hobbyking.com/en_us/twisted-30cm-servo-lead-extention-jr-22awg-5pcs-set.html) |
